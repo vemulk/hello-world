@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+Trying to take my baby steps again into the coding world...
